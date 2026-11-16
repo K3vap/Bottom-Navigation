@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="Morado">#2828CE</color>
+    <color name="SelectedItem">#D5BE11</color>
+    <color name="NoSelectedItem">#DE4C1D</color>
+
+</resources>
